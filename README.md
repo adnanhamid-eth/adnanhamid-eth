@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Adnan Hamid from Kashmir. I am a fullstack developer. Proficient in HTML5, CSS3, JavaScript, React and contemporary libraries and frameworks. Also I am a python developer. I am learning Data Science.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adnan-Hamid-Beigh)](https://github.com/anuraghazra/github-readme-stats)
+# Support Me
+<a href="https://www.buymeacoffee.com/adnanhamid"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
