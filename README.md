@@ -14,7 +14,7 @@ Skills:  HTML | CSS | JS | REACT | NODE JS | PYTHON
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Adnan-Hamid-Beigh)  
 
 
-##Socials
+## Socials
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Adnan-Hamid-Beigh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/divine_adnan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/divine_adnan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg' alt='buymeacoffee' height='40'>](https://www.buymeacoffee.com/adnanhamid)
 ### Support Me
