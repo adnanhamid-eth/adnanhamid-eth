@@ -10,8 +10,8 @@ Skills:  HTML | CSS | JS | REACT | NODE JS | DFINITY | PYTHON
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adnan-Hamid-Beigh)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Adnan-Hamid-Beigh)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adnanhamidbeigh)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=adnanhamidbeigh)  
 
 
 ### Socials
