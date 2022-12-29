@@ -1,5 +1,5 @@
-### Hi there 👋, Adnan Hamid
-#### Web Developer
+### Hi there 👋
+#### Web Developer.
 I'm Adnan Hamid from Kashmir. I am a fullstack developer. Proficient in HTML5, CSS3, JavaScript, React and contemporary libraries and frameworks. Also I am a python developer. I am learning Data Science.
 
 Skills:  HTML | CSS | JS | REACT | NODE JS | DFINITY | PYTHON
