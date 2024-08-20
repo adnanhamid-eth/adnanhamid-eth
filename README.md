@@ -1,13 +1,11 @@
 ### Hi there 👋
 #### Web Developer.
-I'm Adnan Hamid from Kashmir. I am a fullstack developer. Proficient in HTML5, CSS3, JavaScript, React and contemporary libraries and frameworks. Also I am a python developer. I am learning Data Science.
+I'm Adnan Hamid. I am a fullstack developer and blockchain developer. Proficient in HTML5, CSS3, JavaScript, React, NextJs, ethersjs, Solidity, Foundry, Hardhat etc.
 
-Skills:  HTML | CSS | JS | REACT | NODE JS | DFINITY | PYTHON
+**Skills**:   SOLIDITY | NEXTJS | JS | REACT | NODE JS | PYTHON
 
-- 🔭 I’m currently working on my personal website. 
-- 🌱 I’m currently learning Data Science using Python.
-
-
+- 🔭 I’m currently working on Smart Contract development. 
+- 🌱 I’m currently learning Security and Auditing of Smart Contracts.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adnanhamidbeigh)](https://github.com/anuraghazra/github-readme-stats)
