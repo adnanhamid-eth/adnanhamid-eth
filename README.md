@@ -1,5 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=8580F7&center=true&vCenter=true&width=435&lines=I+am+Adnan+Hamid.+)](https://git.io/typing-svg)
-<br/>
+I'm Adnan Hamid. I am a fullstack developer and blockchain developer. Proficient in HTML5, CSS3, JavaScript, React, NextJs, ethersjs, Solidity, Foundry, Hardhat etc.
+Add comment
+More actions
+
+
 **Skills**:   SOLIDITY | NEXTJS | JS | REACT | NODE JS | PYTHON
 
 - 🔭 I’m currently working on Smart Contract development. 
