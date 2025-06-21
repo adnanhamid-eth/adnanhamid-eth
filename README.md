@@ -1,8 +1,5 @@
-<h1 style="text-align: center;">
-  <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoami;Adnan+Hamid" alt="Title GitHub Readme" />
-  </a>
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=8580F7&center=true&vCenter=true&width=435&lines=I+am+Adnan+Hamid.+)](https://git.io/typing-svg)
+<br/>
 **Skills**:   SOLIDITY | NEXTJS | JS | REACT | NODE JS | PYTHON
 
 - 🔭 I’m currently working on Smart Contract development. 
