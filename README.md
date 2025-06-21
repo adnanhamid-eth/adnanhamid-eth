@@ -1,7 +1,8 @@
-### Hi there 👋
-#### Web Developer.
-I'm Adnan Hamid. I am a fullstack developer and blockchain developer. Proficient in HTML5, CSS3, JavaScript, React, NextJs, ethersjs, Solidity, Foundry, Hardhat etc.
-
+<h1 style="text-align: center;">
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoami;Adnan+Hamid" alt="Title GitHub Readme" />
+  </a>
+</h1>
 **Skills**:   SOLIDITY | NEXTJS | JS | REACT | NODE JS | PYTHON
 
 - 🔭 I’m currently working on Smart Contract development. 
