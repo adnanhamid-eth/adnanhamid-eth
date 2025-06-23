@@ -20,7 +20,6 @@ I'm a **Full-Stack Blockchain Developer** passionate about building modern, scal
 <img align="left" alt="Solidity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" title="Solidity" />
 <img align="left" alt="Noir" width="30px" style="padding-right:10px;" src="https://github.com/noir-lang/noir/blob/master/noir-logo.png" title="Noir" />
 
-
 <!-- General Web & Language Stack -->
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" title="TypeScript" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="JavaScript" />
@@ -41,9 +40,9 @@ I'm a **Full-Stack Blockchain Developer** passionate about building modern, scal
 
 ### 📊 GitHub Stats
 
-![Adnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adnanhamidbeigh&show_icons=true&count_private=true&theme=default)
+![Adnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adnanhamidbeigh&show_icons=true&count_private=true&theme=radical)
 <br/>
-![GitHub Streak](https://streak-stats.demolab.com/?user=adnanhamidbeigh&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com/?user=adnanhamidbeigh&theme=radical)
 
 ---
 
