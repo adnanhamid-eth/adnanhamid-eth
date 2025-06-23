@@ -17,7 +17,7 @@ I'm a **Full-Stack Blockchain Developer** building modern, scalable, and secure 
 <img align="left" title="Solidity" alt="Solidity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
 <img align="left" title="Noir" alt="Noir" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/noir-lang/noir/main/assets/logo.svg" />
 <img align="left" title="OpenZeppelin" alt="OpenZeppelin" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/22668662?s=200&v=4" />
-<img src="https://raw.githubusercontent.com/smartcontractkit/chainlink/develop/docs/logo-chainlink-blue.svg" width="30px" alt="Chainlink logo">
+<img src="https://raw.githubusercontent.com/smartcontractkit/chainlink/develop/docs/logo-chainlink-blue.svg" width="75px" style="padding-right:10px;  alt="Chainlink logo">
 
 <!-- Web/General -->
 <img align="left" title="TypeScript" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
