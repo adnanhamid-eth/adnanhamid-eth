@@ -21,8 +21,11 @@ I'm Adnan Hamid. I am a fullstack blockchain developer. Proficient in NextJs, Et
 
 
 
-[![Adnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=adnanhamidbeigh)](https://github.com/adnanhamidbeigh/github-readme-stats)
+[![Adnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=adnanhamidbeigh)]
+<br />
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=adnanhamidbeigh)  
+
+<br />
 
 
 ### Socials
