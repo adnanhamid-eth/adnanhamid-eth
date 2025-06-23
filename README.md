@@ -1,6 +1,6 @@
-I'm Adnan Hamid. I am a fullstack developer and blockchain developer. Proficient in HTML5, CSS3, JavaScript, React, NextJs, ethersjs, Solidity, Foundry, Hardhat etc.
+I'm Adnan Hamid. I am a fullstack developer and blockchain developer. Proficient in NextJs, EthersJs, Solidity, Foundry, Hardhat, Wagmi, Viem, Noir etc.
 
-**Skills**:   SOLIDITY | NEXTJS | JS | REACT | NODE JS | PYTHON
+**Skills**:   SOLIDITY | NEXTJS | JS | REACT | NODE JS | PYTHON | Noir | ZK Proofs
 
 - 🔭 I’m currently working on Smart Contract development. 
 - 🌱 I’m currently learning Security and Auditing of Smart Contracts.
