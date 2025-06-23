@@ -19,7 +19,7 @@ I'm a **Full-Stack Blockchain Developer** passionate about building modern, scal
 <!-- Blockchain -->
 <img align="left" alt="Solidity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" title="Solidity" />
 <img align="left" alt="Noir" width="30px" style="padding-right:10px;" src="https://github.com/noir-lang/noir/blob/master/noir-logo.png" title="Noir" />
-<img align="left" alt="OpenZeppelin" width="100px" style="padding-right:10px;" src="https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/logo.svg" title="OpenZeppelin" />
+
 
 <!-- General Web & Language Stack -->
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" title="TypeScript" />
