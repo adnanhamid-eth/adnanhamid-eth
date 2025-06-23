@@ -3,11 +3,14 @@
 I'm a **Full-Stack Blockchain Developer** passionate about building modern, scalable, and secure **web3** applications.
 
 🛠️ **Tech I work with:**  
-`Next.js` · `Ethers.js` · `Solidity` · `Foundry` · `Hardhat` · `Wagmi` · `Viem` · `Noir` · `Chainlink` · `zkSync` · `OpenZeppelin`
+`Next.js` · `Ethers.js` · `Solidity` · `Foundry` · `Hardhat` · `Wagmi` · `Viem` · `Noir` · `OpenZeppelin`
 
 - 🔭 Currently crafting smart contracts & dApps  
 - 🔐 Exploring advanced **security & auditing** techniques  
 - 🧩 Fascinated by **zero-knowledge cryptography** and onchain logic  
+- ⚙️ Building modular, gas-optimised, and upgradeable contracts  
+- 🧪 Strong focus on **testing**, **debugging**, and **developer tooling**  
+- 🧱 Experienced in Layer 2 ecosystems & real-world protocol integrations  
 
 ---
 
@@ -17,8 +20,6 @@ I'm a **Full-Stack Blockchain Developer** passionate about building modern, scal
 <img align="left" alt="Solidity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" title="Solidity" />
 <img align="left" alt="Noir" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/noir-lang/noir/main/assets/logo.svg" title="Noir" />
 <img align="left" alt="OpenZeppelin" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/22668662?s=200&v=4" title="OpenZeppelin" />
-<img align="left" alt="Chainlink" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/smartcontractkit/chainlink/develop/docs/logo-chainlink-blue.svg" title="Chainlink" />
-<img align="left" alt="zkSync" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/87843784?s=200&v=4" title="zkSync" />
 
 <!-- General Web & Language Stack -->
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" title="TypeScript" />
