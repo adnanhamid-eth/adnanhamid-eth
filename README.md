@@ -1,6 +1,6 @@
 ## 👋 Hey there, I'm Adnan Hamid
 
-I'm a **Full-Stack Blockchain Developer** passionate about building modern, scalable, and secure **web3** applications.
+I'm a **Smart Contract Security Researcher and Full-stack Blockchain Developer** passionate about building modern, scalable, and secure **web3** applications.
 
 🛠️ **Tech I work with:**  
 `Next.js` · `Ethers.js` · `Solidity` · `Foundry` · `Hardhat` · `Wagmi` · `Viem` · `Noir` · `OpenZeppelin`
