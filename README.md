@@ -42,7 +42,7 @@ I'm a **Smart Contract Security Researcher and Full-stack Blockchain Developer**
 
 ![Adnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adnanhamid-eth&show_icons=true&count_private=true&theme=radical)
 <br/>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=adnanhamid-eth&theme=cobalt)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=adnanhamid-eth&theme=cobalt&card_width=450)](https://git.io/streak-stats)
 
 ---
 
